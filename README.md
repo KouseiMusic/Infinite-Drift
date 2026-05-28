@@ -16,7 +16,7 @@ _<p align="center">Synthesizer Synthesis, Blur,  Glitch and Swell Effects for ma
 - **Constellation Map**: Explore your audio effects as constellations in an interactive night sky.
 - **Dynamic Spectral Visualizer**: A nebula-glow spectrogram that responds in real time to your audio.
 - **Space-Themed Audio Engine**: Manipulate ambient space with core effects including spatial dimension, harmonic drive and rhythmic envelopes.
-- **8 Constellation Presets**: Discover galaxies of sound across 4 distinct modes (Blur, Synth, Glitch, Swell) with 2 variants each (A/B).
+- **8 Constellation Presets**: Discover galaxies of sound across 4 distinct modes (Blur, Synth, Glitch and Swell) with 2 variants each (A/B).
 - **Live Output Recording**: Capture your cosmic audio creations in .wav.
 - **Standalone**: Optimized for macOS, no internet, no browser required
 
