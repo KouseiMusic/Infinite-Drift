@@ -1,6 +1,6 @@
 # <p align="center">Infinite Drift</p>
 
-_<p align="center">Blur, Synthesizer Synthesis, Glitch and Swells Effects for macOS.</p>_
+_<p align="center">Synthesizer Synthesis, Blur,  Glitch and Swell Effects for macOS.</p>_
 
 ---
 
