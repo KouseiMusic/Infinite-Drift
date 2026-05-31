@@ -38,7 +38,7 @@ _<p align="center">Synthesizer Synthesis, Blur,  Glitch and Swell Effects for ma
 
 ### 𝐒𝐭𝐚𝐧𝐝𝐚𝐥𝐨𝐧𝐞
 1. Download the latest `Infinite Drift` release.
-2. Install (.pkg) or drag (.app or .dmg) `Infinite Drift` to your `Applications` folder.
+2. Extract & Drag `Infinite Drift` to your `Applications` folder.
 3. Open `Infinite Drift`.
 4. Click on `Load` to start processing your samples.
 
