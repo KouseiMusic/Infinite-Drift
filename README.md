@@ -1,4 +1,4 @@
-# <p align="center">Infinite Drift</p>
+<p align="center"><img width="170" height="103" alt="infinitedriftbanner" src="https://github.com/user-attachments/assets/d1e0c0fd-bfae-4c26-8809-fbc1fdea44f5" /></p>
 
 _<p align="center">Synthesizer Synthesis, Blur,  Glitch and Swell Effects for macOS.</p>_
 
@@ -10,6 +10,11 @@ _<p align="center">Synthesizer Synthesis, Blur,  Glitch and Swell Effects for ma
 ![Format](https://img.shields.io/badge/Format-Standalone-00CED1?style=flat-square)
 
 ---
+
+<img width="1022" height="766" alt="infinitedriftpreview" src="https://github.com/user-attachments/assets/f13b4e6c-a51c-466a-ac61-68b0b9c37f8e" />
+
+---
+
 
 ## 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬
 
