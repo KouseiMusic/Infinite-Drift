@@ -30,9 +30,5 @@ _<p align="center">Synthesizer Synthesis, Blur,  Glitch and Swell Effects for ma
 
 ---
 
-_This software is free. Don't forget to give it a ⭐ on Github if you liked the project._
-
----
-
 <p align="center"><code>Kousei</code></p>
 <p align="center"><code>2026</code></p>
