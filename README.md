@@ -12,6 +12,10 @@ _<p align="center">Synthesizer Synthesis, Blur,  Glitch and Swell Effects for ma
 
 ---
 
+_<p align="center">This software is only available in my musical releases. It is included alongside the tracks as a direct download link.</p>_ 
+
+---
+
 ## 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬
 
 - **Constellation Map**: Explore your audio effects as constellations.
