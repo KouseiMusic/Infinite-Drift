@@ -6,7 +6,7 @@ _<p align="center">Synthesizer Synthesis, Blur,  Glitch and Swell Effects for ma
 
 ![Version](https://img.shields.io/badge/Version-1.0.0-brightgreen?style=flat-square)
 ![macOS Support](https://img.shields.io/badge/macOS-Sonoma%20%7C%20Sequoia%20%7C%20Tahoe-000000?style=flat-square&logo=apple&logoColor=white)
-![Architecture](https://img.shields.io/badge/Architecture-Universal-black?labelColor=606060&style=flat-square&logo=apple&logoColor=white)
+![Architecture](https://img.shields.io/badge/Architecture-Intel%20%7C%20Silicon%20%7C%20Universal-black?labelColor=606060&style=flat-square&logo=apple&logoColor=white)
 ![Format](https://img.shields.io/badge/Format-Standalone%20%7C%20AU%20%7C%20VST3-00CED1?style=flat-square)
 ![DAW](https://img.shields.io/badge/DAW-Ableton%20Live%2012%2B-000000?style=flat-square&logo=abletonlive&logoColor=white)
 
@@ -20,6 +20,8 @@ _<p align="center">This software is only available in my musical releases. It is
 
 - **Constellation Map**: Explore your audio effects as constellations.
 - **Dynamic Spectral Visualizer**: A nebula-glow spectrogram that responds in real time to your audio.
+- **Port of the Infinite Jets from Hologram Electronics**: <br> <img width="210" height="164" alt="infinitejets" src="https://github.com/user-attachments/assets/be8c476f-6e06-4492-9c1b-a96173b0fc8c" />
+
 - **Space-Themed Audio Engine**: Manipulate ambient space with core effects including spatial dimension, harmonic drive and rhythmic envelopes.
 - **8 Constellation Presets**: Discover galaxies of sound across 4 distinct modes (Blur, Synth, Glitch and Swell) with 2 variants each (A/B).
 - **Live Output Recording**: Capture your cosmic audio creations in .wav.
@@ -30,7 +32,11 @@ _<p align="center">This software is only available in my musical releases. It is
 ## 𝐒𝐲𝐬𝐭𝐞𝐦 𝐑𝐞𝐪𝐮𝐢𝐫𝐞𝐦𝐞𝐧𝐭𝐬
 
 - **macOS**: 14.0 (Sonoma), 15.0 (Sequoia) or 16.0 (Tahoe).
-- **Architecture**: Intel, Arm64 (Silicon) & U2B (Universal).
+- **Architecture**: Intel, Silicon & Universal.
+
+---
+
+_This software is not affiliated with Hologram Electronics._
 
 ---
 
