@@ -20,7 +20,7 @@ _<p align="center">This software is only available in my musical releases. It is
 
 - **Constellation Map**: Explore your audio effects as constellations.
 - **Dynamic Spectral Visualizer**: A nebula-glow spectrogram that responds in real time to your audio.
-- **Port of the Infinite Jets from Hologram Electronics**: <br> <img width="210" height="164" alt="infinitejets" src="https://github.com/user-attachments/assets/be8c476f-6e06-4492-9c1b-a96173b0fc8c" />
+- **Port of the [Infinite Jets](https://www.hologramelectronics.com/pages/infinite-jets) from Hologram Electronics**: <br> <img width="210" height="164" alt="infinitejets" src="https://github.com/user-attachments/assets/be8c476f-6e06-4492-9c1b-a96173b0fc8c" />
 
 - **Space-Themed Audio Engine**: Manipulate ambient space with core effects including spatial dimension, harmonic drive and rhythmic envelopes.
 - **8 Constellation Presets**: Discover galaxies of sound across 4 distinct modes (Blur, Synth, Glitch and Swell) with 2 variants each (A/B).
